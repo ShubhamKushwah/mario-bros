@@ -11,3 +11,4 @@ Old epic game now running as an android app.
 - Collision Detection
 
 ## Issues:
+<a href="https://github.com/ShubhamKushwah/mario-bros/issues">Read the issues here.</a>
